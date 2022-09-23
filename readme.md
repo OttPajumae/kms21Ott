@@ -9,3 +9,4 @@ Leopold
 Malle
 Kalle
 Ülle
+Manivald
